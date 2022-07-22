@@ -58,4 +58,7 @@ public class Artista {
         this.albuns.add(album);
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 }
